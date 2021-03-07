@@ -1,0 +1,1104 @@
+[
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 10000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 110000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 100000,
+    "he_cess": 0.04
+  },
+
+
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+
+
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 10000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 110000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 100000,
+    "he_cess": 0.04
+  },
+
+
+
+
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 10000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 110000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 100000,
+    "he_cess": 0.04
+  },
+
+
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+
+
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 10000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 110000,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 0,
+    "he_cess": 0.04
+  },
+  {
+    "year": "2019-2020",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 100000,
+    "he_cess": 0.04
+  },
+
+
+
+
+
+
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 300000,
+    "tax_rate": 0.05,
+    "constant": 2500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 10000,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 110000,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 0,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "A",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 100000,
+    "he_cess": 0.03
+  },
+
+
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "A",
+    "x_offset": 250000,
+    "tax_rate": 0.05,
+    "constant": 0,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "B",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.03
+  },
+
+
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 12500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "A",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 112500,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 10000,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "B",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 110000,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "Z",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2020-2021",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "A",
+    "x_offset": 500000,
+    "tax_rate": 0,
+    "constant": 0,
+    "he_cess": 0
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "B",
+    "x_offset": 500000,
+    "tax_rate": 0.2,
+    "constant": 0,
+    "he_cess": 0.03
+  },
+  {
+    "year": "2018-2019",
+    "age": "C",
+    "residential_status": "C",
+    "salary": "C",
+    "x_offset": 1000000,
+    "tax_rate": 0.3,
+    "constant": 100000,
+    "he_cess": 0.03
+  }
+]
